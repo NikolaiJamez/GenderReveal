@@ -55,6 +55,8 @@ function reveal() {
 	if (girl) {
 		stroke(240,128,128);
 		fill(240,128,128);
+		stroke(0);
+		fill(0);
 		text("(It's a Mystery)", 0, 0, width, height);
 	}
 	else {
