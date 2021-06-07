@@ -1,5 +1,5 @@
 const OFFSET = 200;
-const girl = true;
+const girl = false;
 const SPAWNCHANCE = 0.02;
 let GRAVITY;
 const BIGSIZE = 5;
